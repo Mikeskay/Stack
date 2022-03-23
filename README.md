@@ -5,6 +5,9 @@ Let’s create a Stack. A Stack is a common data structure to store objects in t
 principle (Last In – First Out). This means that the last object you push on the Stack is
 the one to be removed first.
 
+![image](https://user-images.githubusercontent.com/47972946/159762404-69fd41e5-573b-4c47-add8-f127b14e8f0d.png)
+
+
 Our Stack should use generics, so it can be created like this:
 
 Stack<String> stringStack = new Stack<String>();
